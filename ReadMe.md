@@ -32,10 +32,12 @@
 
 2. Set up the config.py file with the sender's email address and password, as well as the recipient's as shown in below cell.
 
-### config.py
+```
+#config.py
 sender_email = "example@gmail.com"
 email_password = "password"
-recipient_email = "example@gmail.com" 
+recipient_email = "example@gmail.com"
+```
 
 3. Save the provided Python script as main.py.
 
