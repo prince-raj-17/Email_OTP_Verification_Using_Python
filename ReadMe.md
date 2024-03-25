@@ -1,4 +1,4 @@
-# OTP Email Verification Script Documentation
+# Email OTP Verification Using Python
 
 ## Functionality
 1.`generate_otp()`:
